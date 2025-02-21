@@ -2,8 +2,6 @@ module github.com/wieku/danser-go
 
 go 1.20
 
-toolchain go1.22.4
-
 require (
 	github.com/AllenDang/cimgui-go v1.0.0
 	github.com/EdlinOrg/prominentcolor v1.0.0
