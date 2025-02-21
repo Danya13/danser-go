@@ -3,6 +3,11 @@
 
 name: Go
 
+    - name: Tidy dependencies
+      run: go mod tidy
+      
+
+
 on:
   push:
     branches: [ "master" ]
