@@ -1,6 +1,6 @@
 module github.com/wieku/danser-go
 
-go 1.22.0
+go 1.20
 
 toolchain go1.22.4
 
